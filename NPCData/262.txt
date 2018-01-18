@@ -1,21 +1,32 @@
-npcname_JP.	アンドロイド
+npcname_JP.	??????
 npcname_EN.	android
 numflavor_passiveJP.	1
-numflavor_passiveEN.	0
-flavorpassive_JP.0	*がしゃーんがしゃーん*
+numflavor_passiveEN.	3
+flavorpassive_JP.0	*??????????*
+flavorpassive_EN.0	*clickity-crunch* 
+flavorpassive_EN.1	*zaap*
+flavorpassive_EN.2	*bzzt-hum*
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
-flavorangered_JP.0	「駆動系異常なし。戦闘可能」
-flavorangered_JP.1	「ターゲットロック」
-flavorangered_JP.2	「突撃します」
+numflavor_angeredEN.	3
+flavorangered_JP.0	??????????????
+flavorangered_JP.1	??????????
+flavorangered_JP.2	???????
+flavorangered_EN.0	"No engine drive system error detected. Battle possible."
+flavorangered_EN.1	"Target locked"
+flavorangered_EN.2	"Charging"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
-flavordeath_JP.0	「サヨ...ウ...ナ...ラ」
-flavordeath_JP.1	「機能停止...」
+numflavor_deathEN.	2
+flavordeath_JP.0	???...?...?...??
+flavordeath_JP.1	?????...?
+flavordeath_EN.0	"Sayo.. nara..."
+flavordeath_EN.1	"Main functions halted..."
 numflavor_killJP.	2
-numflavor_killEN.	0
-flavorkill_JP.0	「ターゲット撃破しました」
-flavorkill_JP.1	「戦闘データを更新」
+numflavor_killEN.	2
+flavorkill_JP.0	?????????????
+flavorkill_JP.1	??????????
+flavorkill_EN.0	"Target destroyed"
+flavorkill_EN.1	"Loading battle data... updating combat database..."
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
-flavorwelcome_JP.0	「マスターの帰還を確認」
+numflavor_welcomeEN.	1
+flavorwelcome_JP.0	????????????
+flavorwelcome_EN.0	"%syujin%'s return confirmed. Analyzing condition data..."

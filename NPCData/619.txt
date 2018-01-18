@@ -1,20 +1,29 @@
-npcname_JP.	ダーティパサラン
+
+npcname_JP.	????????
 npcname_EN.	black angel hair
 numflavor_passiveJP.	2
-numflavor_passiveEN.	0
-flavorpassive_JP.0	 *ふわふわ*
-flavorpassive_JP.1	「もうあの頃には戻れないのさ...」
+numflavor_passiveEN.	2
+flavorpassive_JP.0	 *????*
+flavorpassive_JP.1	??????????????...?
+flavorpassive_EN.0	 *puff-fluff*
+flavorpassive_EN.1	"I can't go back to that time..."
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
-flavorangered_JP.0	ダーティパサランは目を精一杯見開いた！
-flavorangered_JP.1	「モフれよ」
-flavorangered_JP.2	「幸運を得たい気持ちは痛いほどわかるがな...」
+numflavor_angeredEN.	3
+flavorangered_JP.0	??????????????????!
+flavorangered_JP.1	??????
+flavorangered_JP.2	????????????????????...?
+flavorangered_EN.0	The black angel hair's eyes bulged open widely!
+flavorangered_EN.1	"Moff it!"
+flavorangered_EN.2	"The desire for good fortune bring only disaster; I understand now."
 numflavor_deathJP.	2
 numflavor_deathEN.	0
-flavordeath_JP.0	「願いなんか叶えられるわけないだろ...」
-flavordeath_JP.1	地面に黒い綿毛が散らばった。
+flavordeath_JP.0	?????????????????...?
+flavordeath_JP.1	??????????????
+flavordeath_JP.0	"My wish didn't come true..."
+flavordeath_JP.1	Black fluff scattered on the ground.
 numflavor_killJP.	1
 numflavor_killEN.	0
-flavorkill_JP.0	「また、汚れてしまったな...」
+flavorkill_JP.0	????????????...?
+flavorkill_EN.0	"Also, look, it got itself awfully darn filthy..."
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
