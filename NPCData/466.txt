@@ -1,35 +1,40 @@
-npcname_JP.	—V‚Ñl
+npcname_JP.	???
 npcname_EN.	ganmbler
 numflavor_passiveJP.	5
 numflavor_passiveEN.	0
-flavorpassive_JP.0	u‚­‚»‚Á‚­‚»‚ÁIv
-flavorpassive_JP.1	uØ‹à‚ª‘‚¦‚é...v
-flavorpassive_JP.2	u‚Ü‚¾‚¾I‚Ü‚¾‹à‚Íc‚Á‚Ä‚é‚¼Iv
-flavorpassive_JP.3	u‰R‚¾...‚±‚ñ‚È‚Ì‚Á‚Äv
-flavorpassive_JP.4	‚´‚íEEE‚´‚íEEE
+flavorpassive_JP.0	???????!?
+flavorpassive_JP.1	???????...?
+flavorpassive_JP.2	????!?????????!?
+flavorpassive_JP.3	???...???????
+flavorpassive_JP.4	??···??···
+flavorpassive_EN.0	"Eh, what's a little more debt?"
+flavorpassive_EN.1	"Not yet! I still have some money left!"
+flavorpassive_EN.2	"Are you sure? It feels like I've been cheated somehow"
+flavorpassive_EN.3	You hear enthusiastic chatter and card shuffling.
 numflavor_angeredJP.	3
 numflavor_angeredEN.	3
-flavorangered_JP.0	uƒOƒbƒhIv
-flavorangered_JP.1	u“q‚¯‚é‚©H‚»‚¿‚ç‚ªŸ‚Â‚©‚±‚¿‚ç‚ªŸ‚Â‚©v
-flavorangered_JP.2	u‚Ü‚³‚µ‚­–½‚ª‚¯‚¾‚Èv
-flavorangered_EN.0	"P-please, no sir..."
-flavorangered_EN.1	"Waaaa!"
-flavorangered_EN.2	"Don't make a fool of me!"
+flavorangered_JP.0	????!?
+flavorangered_JP.1	?????????????????????
+flavorangered_JP.2	???????????
+flavorangered_EN.0	"Finally! Touché!"
+flavorangered_EN.1	"Is that your bet? Does it win or does *THIS* win?"
+flavorangered_EN.2	"That's just how life goes!"
 numflavor_deathJP.	3
-numflavor_deathEN.	3
-flavordeath_JP.0	u•‰‚¯‚½A‚©...v
-flavordeath_JP.1	u‚±‚ñ‚È‚ÌƒCƒ“ƒ`ƒL‚ÉŒˆ‚Ü‚Á‚Ä‚éIv
-flavordeath_JP.2	uƒCƒJƒTƒ}‚µ‚½‚ÈIHv
-flavordeath_EN.0	"You are cruel."
+numflavor_deathEN.	4
+flavordeath_JP.0	??????...?
+flavordeath_JP.1	???????????????!?
+flavordeath_JP.2	????????!??
+flavordeath_EN.0	"I... lost..."
 flavordeath_EN.1	"It's unfair."
-flavordeath_EN.2	"Beggars always cry..."
+flavordeath_EN.2	"You cheated! I'm sure! It's too strange otherwise!"
+flavordeath_EN.3	"Are you crazy? That's no way to cheat!"
 numflavor_killJP.	3
 numflavor_killEN.	3
-flavorkill_JP.0	uŸ‚Á‚½‚¼Iv
-flavorkill_JP.1	u‰½‚ª‚µ‚½‚©‚Á‚½‚ñ‚¾Hv
-flavorkill_JP.2	u‚à‚¤ˆêŸ•‰‚¾Iv
-flavorkill_EN.0	"Weak! Weak!"
-flavorkill_EN.1	"Huh?"
-flavorkill_EN.2	"Ha ha ha!"
+flavorkill_JP.0	?????!?
+flavorkill_JP.1	????????????
+flavorkill_JP.2	???????!?
+flavorkill_EN.0	"I won!"
+flavorkill_EN.1	"Whatcha gonna do about it?"
+flavorkill_EN.2	"Another match!"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

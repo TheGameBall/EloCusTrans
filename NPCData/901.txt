@@ -1,20 +1,27 @@
-npcname_JP.	é§†ã‘å‡ºã—
+npcname_JP.	‹ì‚¯o‚µ
 npcname_EN.	novice
 numflavor_passiveJP.	3
-numflavor_passiveEN.	0
-flavorpassive_JP.0	ã€Œå…ˆãƒ‘ã‚¤ã¿ãŸã„ã«ã‹ã£ã“ã„ã„å†’é™ºè€…ã«ãªã‚ŠãŸã„ï¼ã€
-flavorpassive_JP.1	ã€Œãƒãƒ¼ãƒˆãƒ»ã‚«ãƒ—ãƒ¼ãƒ«ã ã£ã‘ï¼Ÿãƒœãƒ¼ãƒˆãƒ»ã‚«ãƒ–ãƒ¼ãƒ«ã ã£ã‘ï¼Ÿã€
-flavorpassive_JP.2	ã€ŒçŸ¢è€æ€§ã‹ã¨æ€ã£ãŸã‚‰å¤±è€æ€§ã ã£ãŸã€
+numflavor_passiveEN.	2
+flavorpassive_JP.0	uæƒpƒC‚İ‚½‚¢‚É‚©‚Á‚±‚¢‚¢–`Œ¯Ò‚É‚È‚è‚½‚¢Iv
+flavorpassive_JP.1	uƒ|[ƒgEƒJƒv[ƒ‹‚¾‚Á‚¯Hƒ{[ƒgEƒJƒu[ƒ‹‚¾‚Á‚¯Hv
+flavorpassive_JP.2	u–î‘Ï«‚©‚Æv‚Á‚½‚ç¸‘Ï«‚¾‚Á‚½v
+flavorpassive_EN.0	"I want to become a cool adventurer like my senior!"
+flavorpassive_EN.1	"Is it Port Kapul or Boat Kabul?"
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
-flavorangered_JP.0	ã€Œã‚ã‹ã‚‹ã...ã“ã‚Œãªã‚‰ã„ã‘ã‚‹ï¼ã€
-flavorangered_JP.1	ã€Œã“ã‚Œãªã‚‰è‡ªåˆ†ã«ã‚‚ã§ããã†ï¼ã€
-flavorangered_JP.2	ã€Œã“ã‚Œã‚¼ãƒŸã§ã‚„ã£ãŸã¨ã“ã‚ã ï¼ã€
+numflavor_angeredEN.	3
+flavorangered_JP.0	u‚í‚©‚é‚¼c‚±‚ê‚È‚ç‚¢‚¯‚éIv
+flavorangered_JP.1	u‚±‚ê‚È‚ç©•ª‚É‚à‚Å‚«‚»‚¤Iv
+flavorangered_JP.2	u‚±‚êƒ[ƒ~‚Å‚â‚Á‚½‚Æ‚±‚ë‚¾Iv
+flavorangered_EN.0	"I understand... I know I can go on to do things like this."
+flavorangered_EN.1	"If I try that, I really can do this!"
+flavorangered_EN.2	"Thanks to that seminar, I can do this! I did it!"
 numflavor_deathJP.	1
-numflavor_deathEN.	0
-flavordeath_JP.0	ã€Œãƒ‹ã‚¬ãƒ†ã‚’å…‹æœã—ã‚ˆã†ï¼ã€
+numflavor_deathEN.	1
+flavordeath_JP.0	uƒjƒKƒe‚ğ•‚µ‚æ‚¤Iv
+flavordeath_EN.0	"I'll overcome this weakness!"
 numflavor_killJP.	1
-numflavor_killEN.	0
-flavorkill_JP.0	ã€Œå†’é™ºã‚¼ãƒŸå§‹ã‚ã¦ã‚ˆã‹ã£ãŸï¼ã€
+numflavor_killEN.	1
+flavorkill_JP.0	u–`Œ¯ƒ[ƒ~n‚ß‚Ä‚æ‚©‚Á‚½Iv
+flavorkill_EN.0	"I'm glad I took that adventuring seminar!"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
