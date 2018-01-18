@@ -3,15 +3,21 @@ npcname_EN.	farmer
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	2
-numflavor_angeredEN.	0
+numflavor_angeredEN.	2
 flavorangered_JP.0	「なにするだー」
 flavorangered_JP.1	「やめるだー」
+flavorangered_EN.0	"What are you doing..."
+flavorangered_EN.1	"Stop it..."
 numflavor_deathJP.	4
-numflavor_deathEN.	0
-flavordeath_JP.0	「おらは...おらはー！」
-flavordeath_JP.1	「田舎モンだからって...！」
+numflavor_deathEN.	4
+flavordeath_JP.0	「おらは…おらはー！」
+flavordeath_JP.1	「田舎モンだからって…！」
 flavordeath_JP.2	「食べ物を粗末にするな！」
 flavordeath_JP.3	「はぐわ」
+flavordeath_EN.0	"I... I..."
+flavordeath_EN.1	"It's so dangerous out here in the countryside..."
+flavordeath_EN.2	"Food is precious... don't waste it like this..."
+flavordeath_EN.3	*gulp*
 numflavor_killJP.	1
 numflavor_killEN.	1
 flavorkill_JP.0	「よわいべ」
