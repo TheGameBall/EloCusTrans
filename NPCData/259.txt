@@ -22,6 +22,6 @@ flavordeath_EN.1	"Everything... everything is burning red"
 numflavor_killJP.	1
 numflavor_killEN.	0
 flavorkill_JP.0	uãY—í‚ÈŒŒB‚Ø‚ë‚Áv
-flavorkill_EN.0	"Pretty blood, tehe. *lick*"
+flavorkill_EN.0	"Pretty blood, teehee. *lick*"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
