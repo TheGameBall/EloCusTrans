@@ -3,7 +3,7 @@ npcname_EN.	rogue boss
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	5
-numflavor_angeredEN.	0
+numflavor_angeredEN.	5
 flavorangered_JP.0	「イヒヒヒヒ」
 flavorangered_JP.1	「もうすぐ殺してあげるよ」
 flavorangered_JP.2	「かわいそうに、ウヒャ」
