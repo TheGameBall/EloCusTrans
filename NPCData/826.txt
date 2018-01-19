@@ -3,13 +3,18 @@ npcname_EN.	zap mandrake
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	2
-numflavor_angeredEN.	0
+numflavor_angeredEN.	2
 flavorangered_JP.0	ゴボウが空を切る音が聞こえる。
 flavorangered_JP.1	マンドレイクが無言でゴボウを構えている。
+flavorangered_EN.0	You hear the mandrake's burdock somehow cutting the sky.
+flavorangered_EN.1	The mandrake is standing quietly swinging around the piece of burdock.
 numflavor_deathJP.	1
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	マンドレイクは死ぬ間際にゴボウを一振りした。
+flavordeath_EN.0	The mandrake swung its piece of burdock for awhile before its death
 numflavor_killJP.	0
 numflavor_killEN.	0
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
+
+
