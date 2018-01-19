@@ -5,7 +5,7 @@ item_desc1JP.	\t\t¦˜r‚Ì‘_Œ‚è‚ÌˆÙ–¼‚ğŠ¥‚µ‚½‘_Œ‚eB‘_Œ‚—p‚ÌƒXƒR[ƒv‚ª‚Â‚¢‚Ä‚¨‚ç
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t“Á»‚Ì‘_Œ‚e‚¾B\n#`ŠÓ’è•ñ‘Fƒ”é•ó„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\tA sniper rifle named after a brilliant sniper. The scope is not attached, so it is difficult for amateurs to aim it properly. Also,  the barrel is a bit short and heavy.\n#~Ylva Fantasy Encyclopedia~\n
 item_desc2EN.	
-item_desc3EN.	
+item_desc3EN.	\t\tIt is a special sniper rifle. \ n # ~ Expert categorization: <Treasure>
 item_desc4EN.	
