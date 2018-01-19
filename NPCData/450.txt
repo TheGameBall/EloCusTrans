@@ -5,7 +5,7 @@ numflavor_passiveEN.	3
 flavorpassive_JP.0	* ばたばた *
 flavorpassive_JP.1	「ぴよぴよぴよぴよぴよ」
 flavorpassive_JP.2	「ぴよ？」
-flavorpassive_EN.0	You hear the sound of leathery wings flapping
+flavorpassive_EN.0	You hear the sound of wings flapping
 flavorpassive_EN.1	"Piyo pi yo pi yo pyo"
 flavorpassive_EN.2	"Piyo?"
 numflavor_angeredJP.	2

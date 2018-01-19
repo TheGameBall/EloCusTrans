@@ -1,0 +1,18 @@
+npcname_JP.	マスコットの『カラ太』
+npcname_EN.	<Karata> the seminar mascot
+numflavor_passiveJP.	0
+numflavor_passiveEN.	0
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	1
+numflavor_deathEN.	1
+flavordeath_JP.0	「カラ太は…もう満足だから…」
+flavordeath_EN.0	"Karata is... satisfied."
+numflavor_killJP.	2
+numflavor_killEN.	2
+flavorkill_JP.0	「しまっちゃうから！」
+flavorkill_JP.1	カラ太はからからと笑った。
+flavorkill_EN.0	"I got it!"
+flavorkill_EN.1	Karata laughs joyously
+numflavor_welcomeJP.	0
+numflavor_welcomeEN.	0

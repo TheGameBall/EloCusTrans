@@ -18,5 +18,6 @@ flavorkill_JP.0	「ガオー」
 flavorkill_JP.1	「ガル♪」
 flavorkill_EN.0	"*Graah*"
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「おかえりニャン！」
+flavorwelcome_EN.0	"Welcome home-nyan!"
