@@ -11,7 +11,7 @@ numflavor_angeredEN.	3
 flavorangered_JP.0	「駆動系異常なし。戦闘可能」
 flavorangered_JP.1	「ターゲットロック」
 flavorangered_JP.2	「突撃します」
-flavorangered_EN.0	"No engine drive system error detected. Battle possible."
+flavorangered_EN.0	"No engine drive system error detected. Combat e enabled."
 flavorangered_EN.1	"Target locked"
 flavorangered_EN.2	"Charging"
 numflavor_deathJP.	2
