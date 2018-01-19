@@ -1,15 +1,18 @@
 npcname_JP.	破禁の魔女『シズル』
 npcname_EN.	<Ssil> the undead witch
 numflavor_passiveJP.	1
-numflavor_passiveEN.	0
-flavorpassive_JP.0	「ひひひ...」
+numflavor_passiveEN.	1
+flavorpassive_JP.0	「ひひひ…」
+flavorpassive_EN.0	"Hee hee hee"
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	1
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「こんな婆相手に、随分と手酷いことですのう」
+flavordeath_EN.0	"What a terrible thing to do to such an old woman"
 numflavor_killJP.	1
-numflavor_killEN.	0
+numflavor_killEN.	1
 flavorkill_JP.0	「ひひ、研究材料に困っていたところですじゃ」
+flavorkill_EN.0	"Hee hee, I did need some more research materials"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

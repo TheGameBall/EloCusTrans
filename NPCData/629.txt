@@ -1,23 +1,33 @@
 npcname_JP.	空を翔ける『ネイン』
 npcname_EN.	<Nein> the flying witch
 numflavor_passiveJP.	3
-numflavor_passiveEN.	0
-flavorpassive_JP.0	「お尻痛い...」
-flavorpassive_JP.1	「足痺れてきた...」
+numflavor_passiveEN.	3
+flavorpassive_JP.0	「お尻痛い…」
+flavorpassive_JP.1	「足痺れてきた…」
 flavorpassive_JP.2	「見えそうで見えなーい」
+flavorpassive_EN.0	"My butt hurts..."
+flavorpassive_EN.1	"My legs are getting numb..."
+flavorpassive_EN.2	"It might be showing, but don't look"
 numflavor_angeredJP.	4
-numflavor_angeredEN.	0
+numflavor_angeredEN.	4
 flavorangered_JP.0	「あたしの才能に嫉妬しちゃうのも仕方ないかぁ！」
 flavorangered_JP.1	「才能のないやつってすぐムキになるよね」
 flavorangered_JP.2	「うわ、みっともない」
 flavorangered_JP.3	「凡才に生まれて悲しくないの？」
+flavorangered_EN.0	"It's useless to be jealous of my talent, even if you can't help it!"
+flavorangered_EN.1	"A talented girl will be seriously admired, right?"
+flavorangered_EN.2	"Wow, unbelievably ugly"
+flavorangered_EN.3	"To be born as such an ordinary person, aren't you sad?"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「あたしはまだ成長の途中だし」
 flavordeath_JP.1	「本気出しちゃっておとなげなーい」
+flavordeath_EN.0	"I was still growing up, you know"
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「すっごい可哀想」
 flavorkill_JP.1	「情けないね♪」
+flavorkill_EN.0	"Amazingly pitiful"
+flavorkill_EN.1	"So shameful♪"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

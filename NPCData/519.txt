@@ -1,23 +1,34 @@
 npcname_JP.	t”Í‚ÌwƒiƒYƒix
 npcname_EN.	<Nazuna> the instructer
 numflavor_passiveJP.	3
-numflavor_passiveEN.	0
+numflavor_passiveEN.	3
 flavorpassive_JP.0	u‚½‚é‚ñ‚Å‚é‚¼Iv
 flavorpassive_JP.1	u‚È‚ñ‚¾‚»‚ÌäD”²‚¯‚½‘Ô“x‚ÍIv
 flavorpassive_JP.2	u“®‚«‚É–³‘Ê‚ª‘½‚·‚¬‚é‚¼Iv
+flavorpassive_EN.0	"I'm losing you!"
+flavorpassive_EN.1	"What is this attitude I'm getting!"
+flavorpassive_EN.2	"This uncoordinated motion is too wasteful!"
 numflavor_angeredJP.	4
-numflavor_angeredEN.	0
+numflavor_angeredEN.	4
 flavorangered_JP.0	u‚¢‚¢‚¾‚ë‚¤A‚©‚©‚Á‚Ä‚±‚¢v
 flavorangered_JP.1	uŒmŒÃ—¿‚Í–½‚Åx•¥‚Á‚Ä‚à‚ç‚¤‚¼v
 flavorangered_JP.2	u“¥‚İ‚İ‚ª‘«‚è‚ñIv
 flavorangered_JP.3	u‚¨‘O‚Ì–{‹C‚Í‚»‚Ì’ö“x‚©Iv
+flavorangered_EN.0	"Good, keep at it."
+flavorangered_EN.1	"You can pay the fee for this session with your life."
+flavorangered_EN.2	"Your footwork is sloppy"
+flavorangered_EN.3	"Are you taking this seriously?"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
-flavordeath_JP.0	u‚ ‚½‚µ‚Á‚Äã‚¢...v
-flavordeath_JP.1	u‚â‚Á‚Ï‚è...‚ ‚½‚µ‚É‚Í–³—‚¾‚Á‚½‚Ì‚©‚È...v
+numflavor_deathEN.	2
+flavordeath_JP.0	u‚ ‚½‚µ‚Á‚Äã‚¢cv
+flavordeath_JP.1	u‚â‚Á‚Ï‚èc‚ ‚½‚µ‚É‚Í–³—‚¾‚Á‚½‚Ì‚©‚Ècv
+flavordeath_EN.0	"I am weak..."
+flavordeath_EN.1	"After all... maybe it was just impossible for me ..."
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	u‚Ç‚¤‚µ‚½I‚³‚Á‚³‚Æ—§‚¿ã‚ª‚ç‚ñ‚©Iv
 flavorkill_JP.1	u‚¾‚©‚ç‚¨‘O‚ÍƒAƒz‚È‚ñ‚¾Iv
+flavorkill_EN.0	"What's up! Be quick!"
+flavorkill_EN.1	"So you are an idiot!"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

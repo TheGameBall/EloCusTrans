@@ -5,12 +5,17 @@ numflavor_passiveEN.	1
 flavorpassive_JP.0	「ぐぉぉぉん」
 flavorpassive_EN.0	You hear a bonfire in the distance, only it sounds like it's breathing
 numflavor_angeredJP.	5
-numflavor_angeredEN.	0
+numflavor_angeredEN.	4
 flavorangered_JP.0	「ウフハァ」
 flavorangered_JP.1	「グゴガー」
 flavorangered_JP.2	「ギャオース！」
 flavorangered_JP.3	 *どすん* 
 flavorangered_JP.4	 *ドスッ* 
+flavorangered_EN.0	"Hehuhaha"
+flavorangered_EN.1	"gugogag..."
+flavorangered_EN.2	"glerb..."
+flavorangered_EN.3	*thwack*
+flavorangered_EN.4	*thud*
 numflavor_deathJP.	0
 numflavor_deathEN.	0
 numflavor_killJP.	0
