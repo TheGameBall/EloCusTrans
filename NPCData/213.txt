@@ -2,9 +2,9 @@ npcname_JP.	無邪気な少女『グウェン』
 npcname_EN.	<Gwen> the innocent
 numflavor_passiveJP.	7
 numflavor_passiveEN.	7
-flavorpassive_JP.0	「あー...かわいいお花！」
+flavorpassive_JP.0	「あー…かわいいお花！」
 flavorpassive_JP.1	「ついていっていい？」
-flavorpassive_JP.2	「サンドラさんの赤いケープほしい...」
+flavorpassive_JP.2	「サンドラさんの赤いケープほしい…」
 flavorpassive_JP.3	「ざっつあぷりちーふらわー」
 flavorpassive_JP.4	「赤って好きな色なの～」
 flavorpassive_JP.5	「この花の冠はお母さんに編んでもらったの」
@@ -19,11 +19,13 @@ flavorpassive_EN.6	"♪La, laaaah, la, la-la. Lah, la-la,, la la....♪"
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	1
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「どうして、そんなことするの？」
+flavordeath_EN.0	"Why did you do that?"
 numflavor_killJP.	1
 numflavor_killEN.	0
-flavorkill_JP.0	「怖いのはいや...」
+flavorkill_JP.0	「怖いのはいや…」
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
-flavorwelcome_JP.0	「あ...もどってきた！」
+numflavor_welcomeEN.	1
+flavorwelcome_JP.0	「あ…もどってきた！」
+flavorwelcome_EN.0	"Ah... You're back!"
