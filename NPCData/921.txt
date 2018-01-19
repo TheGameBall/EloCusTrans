@@ -1,0 +1,42 @@
+npcname_JP.	’í‹âŒÏ
+npcname_EN.	silver fox brother
+numflavor_passiveJP.	5
+numflavor_passiveEN.	5
+flavorpassive_JP.0	u%onii%‚¿‚á‚ñ‚Í‚µ‚å‚¤‚ª‚È‚¢‚Èv
+flavorpassive_JP.1	u%onii%‚¿‚ác‚È‚ñ‚Å‚à‚È‚¢‚æv
+flavorpassive_JP.2	’í‚ÍüˆÍ‚ğŒx‰ú‚µ‚Ä‚¢‚éB
+flavorpassive_JP.3	u%onii%‚¿‚á‚ñcHv
+flavorpassive_JP.4	u‚±‚ñIv
+flavorpassive_EN.0	"%onii%‚ It's best for to accept one's fate, right?"
+flavorpassive_EN.1	"%onii%... nothing"
+flavorpassive_EN.2	The brother takes note of the surroundings.
+flavorpassive_EN.3	"%onii%...?"
+flavorpassive_EN.4	*kon*
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	3
+numflavor_deathEN.	3
+flavordeath_JP.0	u‚¤‚®cv
+flavordeath_JP.1	u%onii%‚¿‚á‚ñ‚ªS”z‚¾‚È‚Ÿcv
+flavordeath_JP.2	¢Œã‚Íc”C‚¹‚½c‚©‚ç‚Ëc£
+flavordeath_EN.0	"Oh ..."
+flavordeath_EN.1	"But, I still need to take care of %onii%..."
+flavordeath_EN.2	"Now.. it's all up... to you..."
+numflavor_killJP.	4
+numflavor_killEN.	4
+flavorkill_JP.0	‚ ‚È‚½‚Í™z‚Æ‚µ‚½’í‚Ìp‚ÉŠ´S‚µ‚½B
+flavorkill_JP.1	’í‚ÍŒÄ‹z‚ğ®‚¦‚È‚ª‚ç‚ ‚È‚½‚ÌŠç‚ğ”`‚¢‚½B
+flavorkill_JP.2	u‚±‚Ì‚­‚ç‚¢‚ÍA‚Ëv
+flavorkill_JP.3	’í‚Í•\î‚ğ•Ï‚¦‚Ä‚¢‚È‚¢‚ª‚µ‚Á‚Û‚ªŠğ‚µ‚»‚¤‚É“®‚¢‚Ä‚¢‚éB
+flavorkill_EN.0	You were impressed by the brother's dignified presentation.
+flavorkill_EN.1	The brother glances into your face silently.
+flavorkill_EN.2	"Here, I killed this."
+flavorkill_EN.3	The brother has not changed his expression, but his tail is moving happily.
+numflavor_welcomeJP.	3
+numflavor_welcomeEN.	3
+flavorwelcome_JP.0	u‚¨‚©‚¦‚è‚È‚³‚¢A%onii%‚¿‚á‚ñv
+flavorwelcome_JP.1	u%onii%‚¿‚á‚ñ‚ª‹A‚Á‚Ä‚«‚½ôv
+flavorwelcome_JP.2	¢‚à‚¤—¯ç”Ô‚­‚ç‚¢ˆêl‚Å‚Å‚«‚é‚æ£
+flavorwelcome_EN.0	"Welcome back,%onii%" 
+flavorwelcome_EN.1	"%onii% is backô"
+flavorwelcome_EN.2	"I can already look after this house by myself."
