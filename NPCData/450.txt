@@ -1,21 +1,30 @@
 npcname_JP.	火炎竜の幼体
 npcname_EN.	fire　dragon child
 numflavor_passiveJP.	3
-numflavor_passiveEN.	0
+numflavor_passiveEN.	3
 flavorpassive_JP.0	* ばたばた *
 flavorpassive_JP.1	「ぴよぴよぴよぴよぴよ」
 flavorpassive_JP.2	「ぴよ？」
+flavorpassive_EN.0	You hear the sound of leathery wings flapping
+flavorpassive_EN.1	"Piyo pi yo pi yo pyo"
+flavorpassive_EN.2	"Piyo?"
 numflavor_angeredJP.	2
-numflavor_angeredEN.	0
+numflavor_angeredEN.	2
 flavorangered_JP.0	「ぴー！」
 flavorangered_JP.1	ブレスを吐こうとしたようだが、小さな炎が出ただけだった。
+flavorangered_EN.0	"Pii...!"
+flavorangered_EN.1	Although the child tried to disgorge an inferno, it only coughed out a candle-sized flame.
 numflavor_deathJP.	1
-numflavor_deathEN.	0
-flavordeath_JP.0	「ぴい...」
+numflavor_deathEN.	1
+flavordeath_JP.0	「ぴい…」
+flavordeath_EN.0	"Pi ..."
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「ぴよ♪」
 flavorkill_JP.1	「ぴ！」
+flavorkill_EN.0	"Piyo ♪"
+flavorkill_EN.1	"Pi!"
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「ぴよぴよ」
+flavorwelcome_EN.0 "Piyo Pyo"
