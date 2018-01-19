@@ -13,8 +13,9 @@ flavorpassive_EN.3	"Now you be good dear, understand?"
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	1
-numflavor_deathEN.	0
-flavordeath_JP.0	「ああ...パエル...パエル...」
+numflavor_deathEN.	1
+flavordeath_JP.0	「ああ…パエル…パエル…」
+flavordeath_EN.0	"Oh... Pael... Pael..."
 numflavor_killJP.	0
 numflavor_killEN.	0
 numflavor_welcomeJP.	0
