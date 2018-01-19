@@ -3,7 +3,7 @@ npcname_EN.	rogue
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	2
-numflavor_angeredEN.	0
+numflavor_angeredEN.	2
 flavorangered_JP.0	「喧嘩か」
 flavorangered_JP.1	「みぐるみはいでやるよ」
 flavorangered_EN.0	"Are we really fighting?"
