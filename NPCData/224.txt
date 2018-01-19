@@ -18,11 +18,10 @@ flavorangered_EN.0	"Coward! Attacking an injured opponent!"
 numflavor_deathJP.	1
 numflavor_deathEN.	1
 flavordeath_JP.0	「ああ…立派な騎士になりたかった…」
-flavordeath_JP.0	"Ahhh... I just wanted to become an acceptably good knight..."
+flavordeath_EN.0	"Ahhh... I just wanted to be an acceptable knight..."
 numflavor_killJP.	1
 numflavor_killEN.	1
 flavorkill_JP.0	「ガードに突き出してやる」
-flavorkill_EN.0	"At this rate, I'll actually be knighted after all"
+flavorkill_EN.0	"At this right, I might actually be knighted"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
-
