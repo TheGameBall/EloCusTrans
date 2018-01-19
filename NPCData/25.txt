@@ -31,4 +31,4 @@ flavor_killEN.1	"My weapon thirsts for more!"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	1
 flavorwelcome_JP.0	Åu?????????????????Åv
-flavorwelcome_EN.0	"I'm hungry. Hurry up with my dinner!"
+flavorwelcome_EN.0	"I'm hungry. Hurry and make me supper!"
