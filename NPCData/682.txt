@@ -3,11 +3,13 @@ npcname_EN.	small stone golem
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	1
-numflavor_angeredEN.	0
+numflavor_angeredEN.	1
 flavorangered_JP.0	「ぐおーん」
+flavorangered_EN.0	"Gaaaahn"
 numflavor_deathJP.	1
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「ぐあー」
+flavordeath_EN.0	"Gaah"
 numflavor_killJP.	0
 numflavor_killEN.	0
 numflavor_welcomeJP.	0
