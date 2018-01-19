@@ -4,19 +4,21 @@ numflavor_passiveJP.	2
 numflavor_passiveEN.	0
 flavorpassive_JP.0	「海に来たんだから海に行こう！」
 flavorpassive_JP.1	「あちち」
+flavorpassive_EN.0	"I'm visiting the sea, so let's go to the beach!"
+flavorpassive_EN.1	"Later...!"
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	2
 numflavor_deathEN.	2
-flavordeath_JP.0	「み、水着がやぶけっ...」
+flavordeath_JP.0	「み、水着がやぶけっ…」
 flavordeath_JP.1	「がぼぼぼ」
-flavordeath_EN.0	"No....no...!"
-flavordeath_EN.1	"I'm sorry I failed you."
+flavordeath_EN.0	"Mmph, this wetsuit is tough ..."
+flavordeath_EN.1	"Is this your hobby?"
 numflavor_killJP.	1
-numflavor_killEN.	0
+numflavor_killEN.	1
 flavorkill_JP.0	「いい準備運動になりました」
+flavorkill_EN.0	"That was a good training session."
 numflavor_welcomeJP.	1
 numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「泳ぎに行きたーい」
-flavorwelcome_EN.0	"Welcome home!"
-flavorwelcome_EN.0	"Welcome home!"
+flavorwelcome_EN.0	"I've been out swimming, did you get the chance?"
