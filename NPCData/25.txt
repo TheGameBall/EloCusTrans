@@ -1,12 +1,34 @@
 npcname_JP.	オークの隊長『ゴダ』
 npcname_EN.	<Goda> the captain of orc
 numflavor_passiveJP.	0
-numflavor_passiveEN.	0
+numflavor_passiveEN.	3
+flavor_passiveJP.0	「???」
+flavor_passiveJP.1	「??????????」
+flavor_passiveJP.2	??
+flavor_passiveEN.0	"Time for inspections!"
+flavor_passiveEN.1	"Oi! You fatties better get in shape!"
+flavor_passiveEN.2	*bang*
 numflavor_angeredJP.	0
-numflavor_angeredEN.	0
+numflavor_angeredEN.	3
+flavor_angeredEN.0	「??????????」
+flavor_angeredEN.1	「??... ???????????!」
+flavor_angeredEN.2	「???????????!」
+flavor_angeredJP.0	"Have a taste of this!"
+flavor_angeredJP.1	"Rrr... But you can't escape!"
+flavor_angeredJP.2	"Just give in!"
 numflavor_deathJP.	0
-numflavor_deathEN.	0
+numflavor_deathEN.	2
+flavor_deathEN.	0	"?????????????????!」
+flavor_deathEN.	1	"?????????! ?????????????...」
+flavor_deathEN.	0	"I won't slow down!"
+flavor_deathEN.	1	"Rebellious brat! Come back here and die first..."
 numflavor_killJP.	0
-numflavor_killEN.	0
+numflavor_killEN.	2
+flavor_killJP.0	「???? ! ???????????」
+flavor_killJP.1	「?????????!」
+flavor_killEN.0	"Gwahaha! Where's my next dance partner?"
+flavor_killEN.1	"My weapon thirsts for more!" 
 numflavor_welcomeJP.	0
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
+flavorwelcome_JP.0	「?????????????????」
+flavorwelcome_EN.0	"I'm hungry. Hurry up with my dinner!"

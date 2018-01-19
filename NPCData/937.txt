@@ -1,0 +1,18 @@
+npcname_JP. アングリーバーガー
+npcname_EN. angry burger
+numflavor_passiveJP. 0
+numflavor_passiveEN. 2
+flavorpassive_EN.0 burg burg
+flavorpassive_EN.1 err...
+numflavor_angeredJP. 0
+numflavor_angeredEN. 1
+flavorangered_EN.0 BEEF
+numflavor_deathJP. 0
+numflavor_deathEN. 1
+flavordeath_EN.0 lettuce...
+numflavor_killJP. 0
+numflavor_killEN. 1
+flavorkill_EN.0 CHEESE
+numflavor_welcomeJP. 0
+numflavor_welcomeEN. 1
+flavorwelcome_EN.0 Sauce!
