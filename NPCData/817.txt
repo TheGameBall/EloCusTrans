@@ -3,15 +3,20 @@ npcname_EN.	<Belphat> the cosmic sword
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	4
-numflavor_angeredEN.	0
+numflavor_angeredEN.	3
 flavorangered_JP.0	「よっしゃ暴れるか」
 flavorangered_JP.1	「負けないからな！」
 flavorangered_JP.2	「腹ごなしの運動にはちょうどいい」
 flavorangered_JP.3	「剣客商売なめんなよ」
+flavorangered_EN.0	"Ok, you're getting too rough"
+flavorangered_EN.1	"I will not lose!"
+flavorangered_EN.2	"This exercise will help my digestion"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
+numflavor_deathEN.	2
 flavordeath_JP.0	「うわっ、なんじゃこれ！？」
 flavordeath_JP.1	「あびゃあー」
+flavordeath_EN.0	"Wow, what just happened?!"
+flavordeath_EN.1	"Ayaaaa"
 numflavor_killJP.	2
 numflavor_killEN.	0
 flavorkill_JP.0	「斬り捨てスマンスマン」
