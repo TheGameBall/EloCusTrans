@@ -7,6 +7,7 @@ numflavor_angeredEN.	0
 numflavor_deathJP.	1
 numflavor_deathEN.	0
 flavordeath_JP.0	「ジリリリリリリ！」
+flavordeath_EN.0	*bring-a-ling-a-ling-a-ling*
 numflavor_killJP.	0
 numflavor_killEN.	0
 numflavor_welcomeJP.	0
