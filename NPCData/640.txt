@@ -3,18 +3,26 @@ npcname_EN.	<Sinaha>
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
+numflavor_angeredEN.	3
 flavorangered_JP.0	「不幸にしてやるニャ」
 flavorangered_JP.1	「ふしーっ！」
-flavorangered_JP.2	「いい度胸ニャア...」
+flavorangered_JP.2	「いい度胸ニャア…」
+flavorangered_EN.0	"This looks bad, nya"
+flavorangered_EN.1	"Hiss"
+flavorangered_EN.2	"I'll be brave, nya"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
+numflavor_deathEN.	2
 flavordeath_JP.0	「お昼寝の続きをするニャ」
-flavordeath_JP.1	「にゃん...だと...」
+flavordeath_JP.1	「にゃん…だと…」
+flavordeath_EN.0 "Nya, I will go back to my nap"
+flavordeath_EN.1 "Nya... but that's so..."
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「にゃはっはー」
 flavorkill_JP.1	「もうちょっといたぶりたかったニャ」
+flavorkill_EN.0	 "Nyahaha"
+flavorkill_EN.1	"Haha, too bad, I wanted to keep hurting you awhile longer, nya"
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「あー。下僕が帰ってきたニャ」
+flavorwelcome_EN.0 "Ah, looks like my servant's returned home, nya"

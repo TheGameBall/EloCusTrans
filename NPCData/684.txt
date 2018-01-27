@@ -1,21 +1,30 @@
 npcname_JP.	宇宙を望む『クロヤ』
 npcname_EN.	<Kuroya> the looking universe
 numflavor_passiveJP.	3
-numflavor_passiveEN.	0
+numflavor_passiveEN.	3
 flavorpassive_JP.0	「宇宙は広いと聞くね」
-flavorpassive_JP.1	「もうあの頃には戻れない、か...」
+flavorpassive_JP.1	「もうあの頃には戻れない、か…」
 flavorpassive_JP.2	「あいつは元気でやっているかね」
+flavorpassive_EN.0	"I heard that the universe is wide"
+flavorpassive_EN.1	"I'd like to go back to then..."
+flavorpassive_EN.2	"Are you doing as well as me?"
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
+numflavor_angeredEN.	3
 flavorangered_JP.0	「こうして戦っている間は若返ったような気がするね」
 flavorangered_JP.1	「ふっ、焦りすぎだよ」
 flavorangered_JP.2	「これは骨が折れそうだ」
+flavorangered_EN.0	"It feels rejuvenating to fight like this"
+flavorangered_EN.1	"Huh, I'm overly impatient"
+flavorangered_EN.2	"This is going to break me."
 numflavor_deathJP.	1
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「老いた、な」
+flavordeath_EN.0	"Too old"
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「僕もまだ捨てたもんじゃないねぇ」
 flavorkill_JP.1	「まぁこんなとこかな」
+flavorkill_EN.0	"I haven't thrown away my life yet."
+flavorkill_EN.1	"Well, now I'm getting somewhere"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

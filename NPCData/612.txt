@@ -3,20 +3,27 @@ npcname_EN.	<Spipha> the dragon hunter
 numflavor_passiveJP.	3
 numflavor_passiveEN.	0
 flavorpassive_JP.0	「竜退治はこちらまで！」
-flavorpassive_JP.1	「いつかきっと...」
+flavorpassive_JP.1	「いつかきっと…」
 flavorpassive_JP.2	「まったく、難儀な身体ね」
+flavorpassive_EN.0	"The Dragon Hunter is here!"
+flavorpassive_EN.1	"Someday, surely"
+flavorpassive_EN.2	"Indeed, a very hard body"
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
+numflavor_angeredEN.	2
 flavorangered_JP.0	「あまり時間をかけたくないわね」
 flavorangered_JP.1	「サクっといこう、サクッと！」
 flavorangered_JP.2	「降参したら許してあげるのになー」
+flavorangered_EN.0	"I don't want to spend too much time on this"
+flavorangered_EN.1	"I can forgive you, if you give up"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「あちゃあー」
-flavordeath_JP.1	「チッ、役に立たない鱗ね...！」
+flavordeath_JP.1	「チッ、役に立たない鱗ね…！」
+flavordeath_EN.0	"Ah-ha"
 numflavor_killJP.	2
-numflavor_killEN.	0
-flavorkill_JP.0	「またつまらないものを狩ってしまった...ってね」
-flavorkill_JP.1	「私の逆鱗に触れたのよ...なんてね」
+numflavor_killEN.	1
+flavorkill_JP.0	「またつまらないものを狩ってしまった…ってね」
+flavorkill_JP.1	「私の逆鱗に触れたのよ…なんてね」
+flavorkill_EN.0	"I hunted boring prey again."
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
